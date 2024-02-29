@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvision_provideostudydoc=self.webpackChunkvision_provideostudydoc||[]).push([[1484],{3835:o=>{o.exports=JSON.parse('{"label":"facebook","permalink":"/VisionProvideostudydoc/blog/tags/facebook","allTagsPath":"/VisionProvideostudydoc/blog/tags","count":1,"unlisted":false}')}}]);
