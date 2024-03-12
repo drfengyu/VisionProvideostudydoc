@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkvision_provideostudydoc=self.webpackChunkvision_provideostudydoc||[]).push([[9647],{7121:(e,s,r)=>{r.r(s),r.d(s,{default:()=>t});r(6540);var o=r(4164),d=r(1003),u=r(7559),c=r(2831),i=r(781),n=r(4848);function t(e){return(0,n.jsx)(d.e3,{className:(0,o.A)(u.G.wrapper.docsPages),children:(0,n.jsx)(i.A,{children:(0,c.v)(e.route.routes)})})}}}]);
