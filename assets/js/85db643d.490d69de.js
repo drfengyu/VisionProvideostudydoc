@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkvision_provideostudydoc=self.webpackChunkvision_provideostudydoc||[]).push([[7019],{1265:o=>{o.exports=JSON.parse('{"permalink":"/VisionProvideostudydoc/blog","page":1,"postsPerPage":10,"totalPages":2,"totalCount":16,"nextPage":"/VisionProvideostudydoc/blog/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
